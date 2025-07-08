@@ -3,8 +3,11 @@
 An Expense Tracker is a tool (app, website, or script) used to:
 
 ✅ Record how much money you spend
+
 ✅ Track where your money goes (food, transport, bills, etc.)
+
 ✅ Manage your daily, weekly, or monthly budget
+
 ✅ Analyze spending patterns so you can save more 💰
 
 # ✅ Purpose:
